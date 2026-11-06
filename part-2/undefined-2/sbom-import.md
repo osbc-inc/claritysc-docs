@@ -9,6 +9,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 <p class="doc-lead">SBOM Import하는 방법을 설명합니다.</p>
 
 #### 1. SBOM Import 기능 개요 {#1-sbom-import}
+외부 또는 자체 생성된 SBOM 파일을 업로드하여 컴포넌트 목록과 보안 정보를 시스템에 등록하고 검증 워크플로우를 진행할 수 있습니다.
 
 * SBOM Import는 **2단계 워크플로우**로 진행됩니다.
 * 개발자는 관리자 함께 진행할 수 있습니다.
@@ -19,14 +20,20 @@ description: "SBOM Import하는 방법을 설명합니다."
 #### 2. SBOM 파일 스캔하기 {#2-sbom}
 
 \[SBOM Verification] 클릭해서 검증할 파일을 선택합니다.
+![image (247)](/img/clarity-sc/mw4o7fyl-image-247.png)
 
-![](/img/clarity-sc/image-124.png)
+**지원 파일 형식 및 규격**
+- 지원 확장자: .json, .txt, .jsonld, .xml, .rdf, .rdf.xml, .xlsx
+- 엑셀 템플릿 사용 안내:
+- - 표준 SBOM 파일이 없는 경우, 업로드 영역 하단의 (DOWNLOAD EXCEL TEMPLATE) 링크를 클릭하여 양식을 다운로드합니다.
+- - **정해진 엑셀 템플릿 항목**에 맞추어 컴포넌트 및 라이선스 정보를 입력한 후 .xlsx 파일로 업로드할 수 있습니다.
 
-* Import할 SBOM 파일과 포맷을 선택합니다.
-* SBOM 파일은 JSON 형식만 지원합니다.
-*  SPDX 3.0, CycloneDX 1.6, System Default SBOM 포맷을 선택할 수 있습니다. SBOM 관리에서 포맷을 추가하면 목록에 같이 표시됩니다. ([SBOM 포맷 관리 방법 참고](../../part-3/sbom-1.md))
-
-![](/img/clarity-sc/image-125.png)
+**업로드 및 포맷 자동 감지**
+- 파일 등록: Upload file 영역을 클릭하여 대상 SBOM 파일을 선택하거나 드래그 앤 드롭합니다. (파일 변경 시 우측 Change file 버튼 이용)
+- 포맷 자동 분석 (DETECTED FORMAT):
+- - 파일을 올리면 시스템이 내부 구조를 파악하여 SBOM의 표준 규격과 버전을 자동으로 인식합니다.
+    ([SBOM 포맷 관리 방법 참고](./sbom-management.md))
+    ![image (248)](/img/clarity-sc/mw4ohyxu-image-248.png)
 
 #### 3. SBOM 상세 화면 설명 {#3-sbom}
 
@@ -98,9 +105,9 @@ description: "SBOM Import하는 방법을 설명합니다."
 
 ![](/img/clarity-sc/image-84.png)
 
-* 7번 항목 클릭 시, 해당 컴포넌트에서 발견된 CVE 목록이 표시되며, 각 CVE를 클릭하면 NVD의 상세 페이지로 이동합니다.
+* 7번 항목 클릭 시, 해당 컴포넌트에서 발견된 CVE 목록이 표시되며, VEX 정보를 입력할 수 있습니다.
 
-![](/img/clarity-sc/image-86.png)
+![image](/img/clarity-sc/mw4olzep-image.png)
 
 ### 4. SBOM 워크플로우 상세 설명 {#4-sbom}
 
