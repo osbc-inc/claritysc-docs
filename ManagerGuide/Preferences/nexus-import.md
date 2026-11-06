@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/undefined-5/nexus-import"
 sidebar_label: "Nexus Import 설정"
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Nexus Import 설정 {#nexus-import}
 
