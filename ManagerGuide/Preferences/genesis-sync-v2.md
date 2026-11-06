@@ -1,5 +1,7 @@
 ---
 description: 컴포넌트, 라이선스, CVE, 알림 정보 등을 동기화
+sidebar_label: "GENESIS SYNC 동기화"
+sidebar_position: 4
 ---
 
 # GENESIS SYNC 동기화
