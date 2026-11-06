@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/undefined-5/notice-header"
 sidebar_label: "NOTICE HEADER 설정"
-sidebar_position: 6
+sidebar_position: 7
 ---
 # NOTICE HEADER 설정 {#notice-header}
 
