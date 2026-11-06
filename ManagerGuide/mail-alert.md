@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/undefined-4"
 sidebar_label: "알림 기능"
-sidebar_position: 8
+sidebar_position: 9
 description: "메일 알림 기능에 대해 설명합니다."
 ---
 # 알림 기능
