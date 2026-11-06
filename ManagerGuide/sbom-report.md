@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/sbom"
 sidebar_label: "SBOM 리포트 생성 및 다운로드"
-sidebar_position: 5
+sidebar_position: 6
 description: "SBOM 리포트에 작성 방법과 다운로드 방법에 대해 설명합니다."
 ---
 # SBOM 리포트 생성 및 다운로드 {#sbom}
