@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/sbom-1"
 sidebar_label: "SBOM 포맷 추가 및 수정"
-sidebar_position: 7
+sidebar_position: 8
 description: "SBOM 포맷 관리 기능에 대해 설명합니다."
 ---
 # SBOM 포맷 추가 및 수정 {#sbom}
