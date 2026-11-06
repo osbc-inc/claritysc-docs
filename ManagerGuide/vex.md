@@ -18,9 +18,7 @@ VEX는 소프트웨어에 포함된 오픈소스 라이브러리 등에서 알�
 #### 3. VEX 설정 방법
 
 a. [**2. VEX 설정 가능 화면**](vex.md#id-2.-vex) 위치로 이동하여 **SECURITY 항목**의 아이콘을 클릭합니다.
-
-!
-
+![image (237)](/img/clarity-sc/mw4kesxl-image-237.png)
 <br />
 
 <br />
@@ -34,8 +32,8 @@ b. VEX 설정 패널(REVIEW) 활성화되면 설정 및 편집 가능합니다.
   * Not Affected: 취약한 컴포넌트가 포함되어 있으나, 호출 경로 부재/자체 방어 로직 등으로 인해 실제 악용될 위험이 없는 경우
   * Fixed: 패치나 버전 업그레이드 등을 통해 조치가 완료된 경우
   * Under Investigation: 영향도 분석이 아직 진행 중인 경우
-
-!
+![image (240)](/img/clarity-sc/mw4kgsxk-image-240.png)
+<br />
 
 c. **Not Affected(영향 없음)** 설정 시 필수 작성 기준
 
@@ -45,34 +43,34 @@ c. **Not Affected(영향 없음)** 설정 시 필수 작성 기준
   * 영향이 없다고 판단한 표준 사유(예: 취약 코드 미실행, 실행 경로 없음, 인라인 완화 조치 적용 등)를 드롭다운 목록에서 필수로 선택합니다.
 * Additional Notes (상세 코멘트):
   * 내부 분석 결과, 미호출 근거, 방어 로직 적용 내역 등 구체적인 설명과 검토 의견을 상세히 작성합니다.
-
-!
+![image (238)](/img/clarity-sc/mw4khmc5-image-238.png)
+<br />
 
 <br />
 
 #### 4. 이전 프로젝트 차수의 VEX 설정 가져오기
 
 * 이전에 완료된 검증 버전의 VEX 검토 내역(Status, Justification 등)을 현재 검증으로 불러와 동일한 컴포넌트 및 CVE에 일괄 적용할 수 있습니다. **\[Import Data from Previous Version]** 버튼을 클릭합니다.
-
-!
+![image (241)](/img/clarity-sc/mw4kie2w-image-241.png)
+<br />
 
 <br />
 
 * VEX 데이터를 가지고 올 프로젝트 차수를 선택합니다.
-
-!
+![image (242)](/img/clarity-sc/mw4kinx0-image-242.png)
+<br />
 
 <br />
 
 * 주의 사항을 확인한 뒤 **\[Import]** 버튼을  클릭하여 데이터 가지고 옵니다.
-
-!
+![image (243)](/img/clarity-sc/mw4kj9f7-image-243.png)
+<br />
 
 <br />
 
 * 데이터 가져오기(Import)가 성공적으로 완료되면 **화면 우측 상단에 알림이 표시**됩니다.
-
-!
+![image (245)](/img/clarity-sc/mw4kk7ez-image-245.png)
+<br />
 
 <br />
 
@@ -85,5 +83,4 @@ c. **Not Affected(영향 없음)** 설정 시 필수 작성 기준
   * Format: 파일 형식을 선택합니다 (JSON, XML,RDF, Excel 등).
   * VEX (Include VEX information):
     * 체크박스를 선택(체크)하면 설정된 VEX 분석 정보(영향 상태 Status, 사유 Justification, 상세 메모 Notes 등)가 SBOM 메타데이터에 함께 포함되어 내보내집니다
-
-!
+![image (246)](/img/clarity-sc/mw4kkrd6-image-246.png)
