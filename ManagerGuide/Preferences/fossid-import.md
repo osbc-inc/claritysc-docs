@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/undefined-5/fossid-import"
 sidebar_label: "FossID Import 설정"
-sidebar_position: 5
+sidebar_position: 6
 ---
 # FossID Import 설정 {#fossid-import}
 
