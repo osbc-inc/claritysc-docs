@@ -19,7 +19,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 
 #### 2. SBOM 파일 스캔하기 {#2-sbom}
 
-\[SBOM Verification] 클릭해서 검증할 파일을 선택합니다.
+- \[SBOM Verification] 클릭해서 검증할 파일을 선택합니다.
 ![image (247)](/img/clarity-sc/mw4o7fyl-image-247.png)
 
 **지원 파일 형식 및 규격**
@@ -111,7 +111,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 
 ### 4. SBOM 워크플로우 상세 설명 {#4-sbom}
 
-2단계를 각 단계 별로 설명하겠습니다.
+- 2단계를 각 단계 별로 설명하겠습니다.
 
 <div class="gb-stepper">
 
