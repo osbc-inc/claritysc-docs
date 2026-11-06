@@ -1,7 +1,7 @@
 ---
 slug: "/undefined-1/undefined-3"
 sidebar_label: "고지문 작성하기"
-sidebar_position: 6
+sidebar_position: 7
 description: "고지문 작성 방법에 대해 설명합니다."
 ---
 # 고지문 작성하기
