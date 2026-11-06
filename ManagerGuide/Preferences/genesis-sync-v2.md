@@ -16,7 +16,7 @@ description: 컴포넌트, 라이선스, CVE, 알림 정보 등을 동기화
 
 <mark style="background-color:$primary;">※최초 설치 시 Genesis Sync v2 선택 후, 전체동기화 필요합니다.</mark>
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+![image (236)](/img/clarity-sc/mw4o2pmn-image-236.png)
 
 
 
