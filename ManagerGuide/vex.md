@@ -1,5 +1,6 @@
 ---
 description: 컴포넌트에서 발견된 CVE에 대한 VEX를 설정할 수 있습니다.
+sidebar_label: "VEX 기능"
 sidebar_position: 5
 ---
 
