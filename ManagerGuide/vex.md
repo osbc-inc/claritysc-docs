@@ -84,5 +84,5 @@ c. **Not Affected(영향 없음)** 설정 시 필수 작성 기준
   * Export Type: 내보낼 규격을 선택합니다 (예: SPDX3.0 CycloneDX 1.6 등).
   * Format: 파일 형식을 선택합니다 (JSON, XML,RDF, Excel 등).
   * VEX (Include VEX information):
-    * 체크박스를 선택(체크)하면 설정된 VEX 분석 정보(영향 상태 Status, 사유 Justification, 상세 메모 Notes 등)가 SBOM 메타데이터에 함께 포함되어 내보내집니다
+    * 체크박스를 선택(체크)하면 설정된 VEX 분석 정보(영향 상태 Status, 사유 Justification, 상세 메모 Notes 등)가 SBOM 메타데이터에 함께 포함되어 내보내집니다.
 ![image (246)](/img/clarity-sc/mw4kkrd6-image-246.png)
