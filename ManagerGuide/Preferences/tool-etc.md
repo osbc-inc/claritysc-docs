@@ -35,12 +35,12 @@ Default Completion Request Offset에서 프로젝트의 완료 예정일 기본 
 
 #### 6. 검증 타임아웃 설정
 
-Verification Timeout에서검증 도구를 통해 파일 검증을 수행할 때, API 요청 전송 후 응답 시간까지(Timeout)을 설정합니다.
+* Verification Timeout에서검증 도구를 통해 파일 검증을 수행할 때, API 요청 전송 후 응답 시간까지(Timeout)을 설정합니다.
 
 #### 7. 사전검토 사용여부
 
-Use Preview에서 사전검토 기능 사용 여부를 설정합니다. 활성화 시 Project 메뉴 하단에 **Previews List** 메뉴 추가됩니다.
+* Use Preview에서 사전검토 기능 사용 여부를 설정합니다. 활성화 시 Project 메뉴 하단에 **Previews List** 메뉴 추가됩니다.
 
 #### 8. VEX 사용여부
 
-VEX 사용에서 VEX 기능 사용 여부를 설정합니다.
+* VEX 사용에서 VEX 기능 사용 여부를 설정합니다.
