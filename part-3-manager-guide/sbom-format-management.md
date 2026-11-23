@@ -1,7 +1,7 @@
 ---
 slug: "/manager-guide/sbom-format-management"
 sidebar_label: "SBOM format management"
-sidebar_position: 7
+sidebar_position: 8
 description: "This section explains the functions for managing SBOM formats."
 ---
 # SBOM format management {#sbom-format-management}
