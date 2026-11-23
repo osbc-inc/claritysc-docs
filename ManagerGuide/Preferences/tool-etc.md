@@ -14,24 +14,24 @@ description: "System > Preferences > Tool, Locale & ETC Settings에서 사용할
 
 #### 1. 스캔  도구 설정
 
-Usage Verif. Tools 메뉴에서 스캔 도구의 사용 여부를 설정할 수 있습니다. 선택된 도구만 표시됩니다. **Clarity** 도구는 기본으로 활성화되어 있습니다.
+* Usage Verif. Tools 메뉴에서 스캔 도구의 사용 여부를 설정할 수 있습니다. 선택된 도구만 표시됩니다. **Clarity** 도구는 기본으로 활성화되어 있습니다.
 
 #### 2. HTTP Client Timeout 설정 {#2-http-client-timeout}
 
-HTTP Client Timeout (seconds)에서 클라이언트가 요청 후, 응답을 기다리는 최대 시간을 설정합니다.\
-지정된 시간을 초과하면 연결이 자동으로 종료됩니다.
+* HTTP Client Timeout (seconds)에서 클라이언트가 요청 후, 응답을 기다리는 최대 시간을 설정합니다.\
+  지정된 시간을 초과하면 연결이 자동으로 종료됩니다.
 
 #### 3. 기본 언어/지역 설정
 
-Default Locale에서 시스템 전반에서 사용할 기본 언어 및 지역을 지정합니다.
+* Default Locale에서 시스템 전반에서 사용할 기본 언어 및 지역을 지정합니다.
 
 #### 4. CVE 동기화(크롤링) 설정 {#4-cve}
 
-CVE Crawling Time에서CVE 크롤링 실행할 시간을(HH:mm)을 설정합니다. 설정에 시간에 하루 한번 실행됩니다.
+* CVE Crawling Time에서CVE 크롤링 실행할 시간을(HH:mm)을 설정합니다. 설정에 시간에 하루 한번 실행됩니다.
 
 #### 5. 프로젝트 완료 예정일 설정
 
-Default Completion Request Offset에서 프로젝트의 완료 예정일 기본 값 설정합니다.
+* Default Completion Request Offset에서 프로젝트의 완료 예정일 기본 값 설정합니다.
 
 #### 6. 검증 타임아웃 설정
 
