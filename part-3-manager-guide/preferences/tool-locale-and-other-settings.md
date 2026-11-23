@@ -10,7 +10,7 @@ description: "In System > Preferences > Tool, Locale & ETC Settings, you can con
 
 #### Tool, Language, and Other Settings Overview {#tool-language-and-other-settings-overview}
 
-![](/img/clarity-sc-en/image-214.png)
+!
 
 #### 1. Scan Tool Settings {#1-scan-tool-settings}
 
@@ -22,7 +22,7 @@ description: "In System > Preferences > Tool, Locale & ETC Settings, you can con
 
 #### 3. Default Locale Settings {#3-default-locale-settings}
 
-In Default Locale, specify the default language and region to be used throughout the system.
+* In Default Locale, specify the default language and region to be used throughout the system.
 
 #### 4. CVE Synchronization (Crawling) Settings {#4-cve-synchronization-crawling-settings}
 
@@ -34,17 +34,14 @@ In Default Locale, specify the default language and region to be used throughout
 
 #### 6. Verification Timeout Settings {#6-verification-timeout-settings}
 
-In the Verification Timeout section, you can set the response time limit (Timeout) after an API request is sent when performing file verification through the verification tools.
+* In the Verification Timeout section, you can set the response time limit (Timeout) after an API request is sent when performing file verification through the verification tools.
 
 #### 7. Use Preview Settings {#7-use-preview-settings}
 
 * In Use Preview, you can enable or disable the pre-review function. When enabled, the Previews List menu is added under the Project menu.
 
-#### 8. Synchronizing Component and License Information {#8-synchronizing-component-and-license-information}
+#### 8. VEX Settings {#8-synchronizing-component-and-license-information}
 
-Click the \[Sync] button in Genesis Sync to synchronize component and license information. You can verify the synchronized data in the Open Source menu.
+* Use VEX determines whether VEX features are enabled.
 
-* **Sync**: Continues the synchronization from the point it last completed.
-* **Full Sync**: Restarts the synchronization from the very beginning to fetch all component licenses again.
-
-***
+---
