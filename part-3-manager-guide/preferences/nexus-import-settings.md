@@ -1,7 +1,7 @@
 ---
 slug: "/manager-guide/preferences/nexus-import-settings"
 sidebar_label: "Nexus Import Settings"
-sidebar_position: 4
+sidebar_position: 5
 description: "This section explains how to configure the Nexus Import function."
 ---
 # Nexus Import Settings {#nexus-import-settings}
