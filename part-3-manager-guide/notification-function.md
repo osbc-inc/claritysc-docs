@@ -1,7 +1,7 @@
 ---
 slug: "/manager-guide/notification-function"
 sidebar_label: "Notification Function"
-sidebar_position: 8
+sidebar_position: 9
 description: "This section explains the email notification features."
 ---
 # Notification Function {#notification-function}
