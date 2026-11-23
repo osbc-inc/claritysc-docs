@@ -1,7 +1,8 @@
 ---
 description: Synchronize components, licenses, CVEs, notification information, etc.
----
 sidebar_position: 4
+---
+
 # GENESIS SYNC Synchronization
 
 
