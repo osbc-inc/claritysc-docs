@@ -3,7 +3,7 @@ description: You can configure VEX for CVEs detected in components.
 ---
 sidebar_position: 5
 
-# VEX Feature
+# VEX Guide
 
 #### 1. What is VEX (Vulnerability Exploitability eXchange)?
 
