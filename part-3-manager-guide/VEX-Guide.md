@@ -115,4 +115,4 @@ When changing the status to "Not Affected," you must enter clear justification.
   * VEX (Include VEX information):
     * Selecting (checking) this checkbox includes the configured VEX analysis information (Status, Justification, Notes, etc.) in the exported SBOM metadata.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (246).png" alt="" width="485"><figcaption></figcaption></figure></div>
+![image (246)](/img/clarity-sc-en/mwt0gear-image-246.png)
