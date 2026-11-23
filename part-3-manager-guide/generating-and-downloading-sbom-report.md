@@ -1,7 +1,7 @@
 ---
 slug: "/manager-guide/generating-and-downloading-sbom-report"
 sidebar_label: "Generating and Downloading SBOM Report"
-sidebar_position: 5
+sidebar_position: 7
 description: "This section explains how to create and download SBOM reports."
 ---
 # Generating and Downloading SBOM Report {#generating-and-downloading-sbom-report}
