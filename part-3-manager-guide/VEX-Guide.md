@@ -116,6 +116,3 @@ When changing the status to "Not Affected," you must enter clear justification.
     * Selecting (checking) this checkbox includes the configured VEX analysis information (Status, Justification, Notes, etc.) in the exported SBOM metadata.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (246).png" alt="" width="485"><figcaption></figcaption></figure></div>
-```[cite: 8]
-
-*(※ 참고: UI 버튼명이나 메뉴명인 `[Merged View]`, `[Merged Group Component]` 등은 실제 영문 UI에서 쓰이는 정확한 명칭이 있다면 해당 영문 라벨로만 교체해 주시면 완벽합니다.)*
