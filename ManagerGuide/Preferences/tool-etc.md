@@ -43,4 +43,4 @@ description: "System > Preferences > Tool, Locale & ETC Settings에서 사용할
 
 #### 8. VEX 사용여부
 
-* VEX 사용에서 VEX 기능 사용 여부를 설정합니다.
+* Use VEX에서 VEX 기능 사용 여부를 설정합니다.
