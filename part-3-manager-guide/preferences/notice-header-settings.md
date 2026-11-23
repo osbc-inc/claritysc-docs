@@ -1,7 +1,7 @@
 ---
 slug: "/manager-guide/preferences/notice-header-settings"
 sidebar_label: "NOTICE HEADER Settings"
-sidebar_position: 6
+sidebar_position: 7
 description: "This section explains how to set the default header values for notic"
 ---
 # NOTICE HEADER Settings {#notice-header-settings}
