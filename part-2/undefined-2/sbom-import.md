@@ -9,6 +9,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 <p class="doc-lead">SBOM Import하는 방법을 설명합니다.</p>
 
 #### 1. SBOM Import 기능 개요 {#1-sbom-import}
+
 외부 또는 자체 생성된 SBOM 파일을 업로드하여 컴포넌트 목록과 보안 정보를 시스템에 등록하고 검증 워크플로우를 진행할 수 있습니다.
 
 * SBOM Import는 **2단계 워크플로우**로 진행됩니다.
@@ -19,19 +20,21 @@ description: "SBOM Import하는 방법을 설명합니다."
 
 #### 2. SBOM 파일 스캔하기 {#2-sbom}
 
-- \[SBOM Verification] 클릭해서 검증할 파일을 선택합니다.
-![image (247)](/img/clarity-sc/mw4o7fyl-image-247.png)
+* \[SBOM Verification] 클릭해서 검증할 파일을 선택합니다.
+  ![image (247)](/img/clarity-sc/mw4o7fyl-image-247.png)
 
 **지원 파일 형식 및 규격**
-- 지원 확장자: .json, .txt, .jsonld, .xml, .rdf, .rdf.xml, .xlsx
-- 엑셀 템플릿 사용 안내:
-- - 표준 SBOM 파일이 없는 경우, 업로드 영역 하단의 (DOWNLOAD EXCEL TEMPLATE) 링크를 클릭하여 양식을 다운로드합니다.
-- - **정해진 엑셀 템플릿 항목**에 맞추어 컴포넌트 및 라이선스 정보를 입력한 후 .xlsx 파일로 업로드할 수 있습니다.
+
+* 지원 확장자: .json, .txt, .jsonld, .xml, .rdf, .rdf.xml, .xlsx
+* 엑셀 템플릿 사용 안내:
+  * 표준 SBOM 파일이 없는 경우, 업로드 영역 하단의 (DOWNLOAD EXCEL TEMPLATE) 링크를 클릭하여 양식을 다운로드합니다.
+  * **정해진 엑셀 템플릿 항목**에 맞추어 컴포넌트 및 라이선스 정보를 입력한 후 .xlsx 파일로 업로드할 수 있습니다.
 
 **업로드 및 포맷 자동 감지**
-- 파일 등록: Upload file 영역을 클릭하여 대상 SBOM 파일을 선택하거나 드래그 앤 드롭합니다. (파일 변경 시 우측 Change file 버튼 이용)
-- 포맷 자동 분석 (DETECTED FORMAT):
-- - 파일을 올리면 시스템이 내부 구조를 파악하여 SBOM의 표준 규격과 버전을 자동으로 인식합니다.
+
+* 파일 등록: Upload file 영역을 클릭하여 대상 SBOM 파일을 선택하거나 드래그 앤 드롭합니다. (파일 변경 시 우측 Change file 버튼 이용)
+* 포맷 자동 분석 (DETECTED FORMAT):
+  * 파일을 올리면 시스템이 내부 구조를 파악하여 SBOM의 표준 규격과 버전을 자동으로 인식합니다.
     ([SBOM 포맷 관리 방법 참고](./sbom-management.md))
     ![image (248)](/img/clarity-sc/mw4ohyxu-image-248.png)
 
@@ -53,7 +56,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 * SBOM 워크플로우 과정 중 개발자와 관리자가 커뮤니케이션 할 수 있습니다.
   * **Comments**: 검증 단계 별로 개발자 및 관리자가 남긴 코멘트를 확인하고 의견을 교환할 수 있습니다.
 
-![](/img/clarity-sc/clarity_section_yellow_4-1.png)
+!
 
 #### (4). 스캔된 컴포넌트 리스트(Component List) {#4-component-list}
 
@@ -72,9 +75,9 @@ description: "SBOM Import하는 방법을 설명합니다."
 * SEVERITY: CVSS 점수를 기준으로 취약점의 위험도를 등급입니다.
 * SECURITY: 해당 컴포넌트에서 발견된 CVE(보안 취약점) 목록을 표시합니다.
 
-***
+---
 
-![](/img/clarity-sc/1.png)
+!
 
 **팝업 설명**
 
@@ -83,27 +86,27 @@ description: "SBOM Import하는 방법을 설명합니다."
   * 승인 여부
   * 조건(속성) 상세 정보
 
-![](/img/clarity-sc/image-77.png)
+!
 
 * 2번 항목 클릭 시, 컴포넌트 간 라이선스 충돌 정보가 표시됩니다.
 
-![](/img/clarity-sc/image-78.png)
+!
 
-* 3번 항목 클릭 시, _컴포넌트 이름_과 _컴포넌트 버전_에 해당하는 컴포넌트 정보를 보여줍니다. DB에 없으면 표시하지 않습니다.
+* 3번 항목 클릭 시, \_컴포넌트 이름_과 \_컴포넌트 버전_에 해당하는 컴포넌트 정보를 보여줍니다. DB에 없으면 표시하지 않습니다.
 
-![](/img/clarity-sc/image-79.png)
+!
 
 * 4번 항목 클릭 시,  해당 라이선스 상세 정보가 표시됩니다. DB에 없으면 표시하지 않습니다.
 
-![](/img/clarity-sc/image-81.png)
+!
 
 * 5번 항목 클릭 시,  해당 컴포넌트에 적용되는 라이선스 정책 의무 유형(Obligation Type)에 대한  이행 사항을  표시합니다.
 
-![](/img/clarity-sc/image-82.png)
+!
 
 * 6번 항목 클릭 시, 보안취약점 등급 코드에 대한 이행 사항을 표시합니다.
 
-![](/img/clarity-sc/image-84.png)
+!
 
 * 7번 항목 클릭 시, 해당 컴포넌트에서 발견된 CVE 목록이 표시되며, VEX 정보를 입력할 수 있습니다.
 
@@ -111,7 +114,7 @@ description: "SBOM Import하는 방법을 설명합니다."
 
 ### 4. SBOM 워크플로우 상세 설명 {#4-sbom}
 
-- 2단계를 각 단계 별로 설명하겠습니다.
+* 2단계를 각 단계 별로 설명하겠습니다.
 
 <div class="gb-stepper">
 
@@ -122,11 +125,11 @@ description: "SBOM Import하는 방법을 설명합니다."
 * 개발자는 읽고 싶은 SBOM 파일을 업로드할 수 있습니다.
 * 관리자는 재검증 또는 완료 처리를 할 수 있습니다.
 
-![](/img/clarity-sc/image-142.png)
+!
 
 * SBOM Result에서 누락된 SBOM 항목과 지원하지 않는 SBOM 항목 확인할 수 있습니다.
 
-![](/img/clarity-sc/image-144.png)
+!
 
 </div>
 
@@ -137,15 +140,15 @@ description: "SBOM Import하는 방법을 설명합니다."
 * 관리자는 검증 해제할 수 있습니다.
 * 개발자, 관리자 모두 Clarity 검증 결과와 Import SBOM 결과를 비교할 수 있습니다.
 
-![](/img/clarity-sc/image-147.png)
+!
 
 * \[Compare with Clarity Verif.] 버튼 클릭해서 아래의 팝업 창에서 비교할 Clarity 검증을 선택합니다.
 
-![](/img/clarity-sc/image-148.png)
+!
 
-* 선택한 _**Clarity 검증**_과 _**Import한 SBOM**_ 결과를 비교한 결과를 볼 수 있습니다.
+* 선택한 \_**Clarity 검증**\_과 _**Import한 SBOM**_ 결과를 비교한 결과를 볼 수 있습니다.
 
-![](/img/clarity-sc/image-150.png)
+!
 
 </div>
 
