@@ -8,7 +8,6 @@ description: "In System > Preferences > Tool, Locale & ETC Settings, you can con
 
 > In System > Preferences > Tool, Locale & ETC Settings, you can configure the tools, languages, and other operational parameters used within the system.
 
-
 #### Tool, Language, and Other Settings Overview {#tool-language-and-other-settings-overview}
 
 ![도구](/img/clarity-sc-en/mwykpu77-image.png)
