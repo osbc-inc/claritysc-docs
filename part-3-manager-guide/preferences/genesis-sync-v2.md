@@ -5,6 +5,10 @@ sidebar_position: 4
 
 # GENESIS SYNC Synchronization
 
+> Genesis is an internal database that centrally manages information such as components, licenses, and CVEs.
+
+<br />
+
 #### Genesis Sync Synchronization Guide
 
 1. Genesis internal DB data is automatically synchronized once a day. If you need to apply the latest data immediately or check the status, you can perform manual synchronization for each module.
