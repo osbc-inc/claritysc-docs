@@ -5,8 +5,6 @@ sidebar_position: 4
 
 # GENESIS SYNC Synchronization
 
-
-
 #### Genesis Sync Synchronization Guide
 
 1. Genesis internal DB data is automatically synchronized once a day. If you need to apply the latest data immediately or check the status, you can perform manual synchronization for each module.
@@ -17,4 +15,4 @@ sidebar_position: 4
 
 <mark style="background-color:$primary;">※ Upon initial installation, you must select Genesis Sync v2 and perform a Full Sync.</mark>
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+![image (236)](/img/clarity-sc-en/mwyn70nz-image-236.png)
