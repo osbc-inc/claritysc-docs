@@ -6,17 +6,8 @@ description: "In System > Preferences > Tool, Locale & ETC Settings, you can con
 ---
 # Tool, Locale , and Other Settings {#tool-locale-and-other-settings}
 
-<p class="doc-lead">
-In System > Preferences > Tool, Locale & ETC Settings, you can configure the tools, languages, and other operational parameters used within the system.
-</p>
-
 > In System > Preferences > Tool, Locale & ETC Settings, you can configure the tools, languages, and other operational parameters used within the system.
 
-*In System > Preferences > Tool, Locale & ETC Settings, you can configure the tools, languages, and other operational parameters used within the system.*
-
-<p style="font-size: 1.15rem; color: #6b7280; line-height: 1.6; margin-bottom: 1.5rem;">
-In System &gt; Preferences &gt; Tool, Locale &amp; ETC Settings, you can configure the tools, languages, and other operational parameters used within the system.
-</p>
 
 #### Tool, Language, and Other Settings Overview {#tool-language-and-other-settings-overview}
 
