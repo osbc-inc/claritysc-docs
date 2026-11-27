@@ -2,11 +2,10 @@
 slug: "/manager-guide/preferences/fossid-import-settings"
 sidebar_label: "FossID Import Settings"
 sidebar_position: 6
-description: "This section explains how to configure the FossID Import function."
 ---
 # FossID Import Settings {#fossid-import-settings}
 
-<p class="doc-lead">This section explains how to configure the FossID Import function.</p>
+> This section explains how to configure the FossID Import function.
 
 #### FossID Import Functionality {#fossid-import-functionality}
 
